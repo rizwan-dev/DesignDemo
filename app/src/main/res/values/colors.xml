@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorLoginBackground">#ebebeb</color>
+    <color name="colorWhite">#ffff</color>
+    <color name="light_blue_bg">#f3f6ff</color>
+    <color name="colorBlack">#000</color>
+    <color name="colorTransparent">#cc000000</color>
+    <color name="colorDashBackground">#f7f7f7</color>
+    <color name="colorRed">#e74c3c</color>
+    <color name="nav_drawer_text_color">#B9C1CE</color>
+    <color name="nav_drawer_selected_bg">#b2bfdc</color>
+    <color name="nav_drawer_list_bg">#A3B1C9</color>
+
+</resources>
